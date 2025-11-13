@@ -140,7 +140,7 @@ Future improvements may include:
 
 ## 👨‍💻 Authors
 **Developed by:**  
-Elangovan N — MCA (Cognifyz Technologies Internship Project)  
+Nandha Kumar N — MCA (Cognifyz Technologies Internship Project)  
 **Duration:** May 1, 2025 – September 1, 2025  
 **Institution:** [Your College Name]  
 **Contact:** [your-email@example.com]
